@@ -3,7 +3,7 @@ Retrofit is a REST Client for Java and Android. It makes it relatively easy to r
 
 ## Refrofit Dependency
 
-```build.bradle
+```gradle
 
 implementation 'com.google.code.gson:gson:2.8.5'
 implementation 'com.squareup.retrofit2:retrofit:2.4.0'
