@@ -10,6 +10,22 @@ Retrofit is a REST Client for Java and Android. It makes it relatively easy to r
 
 </p>
 
+```java
+
+```
+
+<p align="center">
+
+  <img src="https://github.com/apppath/retrofitappdemo/blob/master/retrofit-valid-image.png" width="400"/>
+  <img src="https://github.com/apppath/retrofitappdemo/blob/master/json-list-items.png" width="400"/>
+
+</p>
+
+```java
+
+```
+
+
 ## Refrofit Dependency
 
 ```gradle
