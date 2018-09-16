@@ -11,6 +11,15 @@ Retrofit is a REST Client for Java and Android. It makes it relatively easy to r
 
 </p>
 
+## Json Item 
+
+<p align="center">
+
+  <img src="https://github.com/apppath/retrofitappdemo/blob/master/json-list.png" width="250"/>
+  
+</p>
+
+
 ```java
 
 ```
