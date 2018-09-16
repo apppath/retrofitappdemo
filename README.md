@@ -5,26 +5,15 @@ Retrofit is a REST Client for Java and Android. It makes it relatively easy to r
 
 <p align="center">
 
-  <img src="https://github.com/apppath/retrofitappdemo/blob/master/retrofit-home-activity.png" width="400"/>
-  <img src="https://github.com/apppath/retrofitappdemo/blob/master/retrofit-insert-activity.png" width="400"/>
+  <img src="https://github.com/apppath/retrofitappdemo/blob/master/retrofit-home-activity.png" width="300"/>
+  <img src="https://github.com/apppath/retrofitappdemo/blob/master/retrofit-insert-activity.png" width="300"/>
+  <img src="https://github.com/apppath/retrofitappdemo/blob/master/retrofit-valid-image.png" width="300"/>
 
 </p>
 
 ```java
 
 ```
-
-<p align="center">
-
-  <img src="https://github.com/apppath/retrofitappdemo/blob/master/retrofit-valid-image.png" width="400"/>
-  <img src="https://github.com/apppath/retrofitappdemo/blob/master/json-list-items.png" width="400"/>
-
-</p>
-
-```java
-
-```
-
 
 ## Refrofit Dependency
 
