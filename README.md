@@ -11,7 +11,7 @@ Retrofit is a REST Client for Java and Android. It makes it relatively easy to r
 
 </p>
 
-## Json Item 
+## Json 
 
 <p align="center">
 
